@@ -1,5 +1,5 @@
 # SICSS-Virtual-Lecture-2024
-Virtual Lecture at Summer Institute in Computational Social Science (SICSS), organized in University of Calabar, Calabar State, Nigeria.
+Virtual Lecture at [Summer Institute in Computational Social Science (SICSS)](https://sicss.io/2024/calabar/), organized in University of Calabar, Calabar State, Nigeria.
 
 I had the privilege of being a [speaker](https://sicss.io/2024/calabar/people) for the event, and I delivered virtual lecture on the **Big Data Modeling with R**.
 <br><br><br>
